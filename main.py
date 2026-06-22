@@ -14,7 +14,7 @@ import os
 print("Importing done")
 
 # Log in to Hugging Face using your API key
-huggingface_api_key = "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"
+huggingface_api_key = "API_KEY"
 login(huggingface_api_key)
 
 print("Login done")
